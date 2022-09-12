@@ -1,9 +1,9 @@
 ![IMG_0218](https://user-images.githubusercontent.com/113323340/189572619-e46e77fc-d30f-464c-b506-130daeca637e.jpg)
+![badge followers](https://img.shields.io/github/stars/hannahsoria?style=social)
+![badge stars](https://img.shields.io/github/stars/hannahsoria?color=9cf&style=plastic)
 
 <h1 align="center">Hi, I'm Hannah Soria :bangbang: </h1>
 <h3 align="center">Student at Colby College</h3>
-![badge followers](https://img.shields.io/github/stars/hannahsoria?style=social)]
-![badge stars](https://img.shields.io/github/stars/hannahsoria?color=9cf&style=plastic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
