@@ -1,7 +1,7 @@
+![IMG_0217](https://user-images.githubusercontent.com/113323340/189571589-7a5ff2bb-be91-4ac1-900b-fba45061d555.jpg)
+
 <h1 align="center">Hi 👋, I'm Hannah Soria</h1>
 <h3 align="center">Student at Colby College</h3>
-
-![IMG_0215](https://user-images.githubusercontent.com/113323340/189569626-49fa87f0-aad0-495d-8428-4abb38b5b871.jpg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hannahsoria" alt="hannahsoria" /></a> </p>
 
