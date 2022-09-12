@@ -1,4 +1,5 @@
-![IMG_0217](https://user-images.githubusercontent.com/113323340/189571589-7a5ff2bb-be91-4ac1-900b-fba45061d555.jpg)
+![IMG_0217](https://user-images.githubusercontent.com/113323340/189571775-493b8c79-62da-40e9-8577-4f64ef9269d5.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Hannah Soria</h1>
 <h3 align="center">Student at Colby College</h3>
