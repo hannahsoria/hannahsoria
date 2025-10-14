@@ -3,8 +3,8 @@
 ![badge stars](https://img.shields.io/github/stars/hannahsoria?color=blueviolet&style=plastic)
 
 <h1 align="center">Hi, I'm Hannah Soria :bangbang: </h1>
-<h3 align="center">Student at Colby College</h3>
-<h3 align="center"> 📝 I am curently studying Studio Art and Computer Science</h3>
+<h3 align="center">Graduate Student at University of Colorado Boulder</h3>
+<h3 align="center"> 📝 I am curently studying Creative Technology and Design at the ATLAS Institute</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
